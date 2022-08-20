@@ -1,0 +1,2 @@
+/usr/bin/ar qc libutilities.a  CMakeFiles/utilities.dir/Array.cpp.o CMakeFiles/utilities.dir/BinaryTree.cpp.o CMakeFiles/utilities.dir/List.cpp.o CMakeFiles/utilities.dir/StringUtil.cpp.o CMakeFiles/utilities.dir/Tree.cpp.o
+/usr/bin/ranlib libutilities.a

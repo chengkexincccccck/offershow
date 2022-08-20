@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/media/ckx/Code/getOffer'
+make: Leaving directory '/media/ckx/Code/getOffer'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

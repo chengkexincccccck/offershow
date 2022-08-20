@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++11 -g   -rdynamic CMakeFiles/main.dir/freedomTest.cpp.o CMakeFiles/main.dir/main.cpp.o  -o main  chapter2/libchapter_2.a Utilities/libutilities.a 

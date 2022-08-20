@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/ckx/Code/getOffer/chapter2/10_Fibonacci.cpp
+10_Fibonacci.h
+/media/ckx/Code/getOffer/chapter2/10_Fibonacci.h
+
+/media/ckx/Code/getOffer/chapter2/10_Fibonacci.h
+vector
+-
+iostream
+-
+

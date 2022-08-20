@@ -1,0 +1,9 @@
+/media/ckx/Code/getOffer/build/CMakeFiles/rebuild_cache.dir
+/media/ckx/Code/getOffer/build/CMakeFiles/edit_cache.dir
+/media/ckx/Code/getOffer/build/CMakeFiles/main.dir
+/media/ckx/Code/getOffer/build/chapter2/CMakeFiles/rebuild_cache.dir
+/media/ckx/Code/getOffer/build/chapter2/CMakeFiles/edit_cache.dir
+/media/ckx/Code/getOffer/build/chapter2/CMakeFiles/chapter_2.dir
+/media/ckx/Code/getOffer/build/Utilities/CMakeFiles/rebuild_cache.dir
+/media/ckx/Code/getOffer/build/Utilities/CMakeFiles/edit_cache.dir
+/media/ckx/Code/getOffer/build/Utilities/CMakeFiles/utilities.dir
